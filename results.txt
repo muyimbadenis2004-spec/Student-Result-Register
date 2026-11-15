@@ -1,0 +1,11 @@
+VU-BBA-009,Akello Dan,Business Admin,60
+VU-BBC-007,Lucky Josh,Business Computing,65
+VU-BCS-001,Cillar Sharon,CS,67
+VU-BCS-005,Nabirye Sharon,Computer Science,90
+VU-BCS-006,Opio Edward,Computer Science,73
+VU-BCS-2507-1756, Ategeka Andrew,CS,80
+VU-BIT-002,Ssemakula Adam,Networking,71
+VU-BIT-003,KirungiCarol,Networking,82
+VU-BIT-010,Mugisha Lisa,AI,55
+VU-BSF-004,Kato Darius,Software Eng,88
+VU-BSF-008,Nansubuga Benon,Networking,47
